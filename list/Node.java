@@ -1,4 +1,4 @@
-package Lab3;
+package list;
 
 //please note that this code is different from the textbook code,
 //because the data is encapsulated!
