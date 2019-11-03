@@ -1,4 +1,4 @@
-package Lab3;
+package list;
 
 /*
  * Purpose: Data Structure and Algorithms Lab 3 Problem 3
